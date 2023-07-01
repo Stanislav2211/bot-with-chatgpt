@@ -1,1 +1,1 @@
-# bot-with-chatgpt
+# ai-mini-projects
